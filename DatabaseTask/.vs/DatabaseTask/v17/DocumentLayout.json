@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51526318-4088-4AA2-9BF9-77F9D247CB1C}|DatabaseTask\\DatabaseTask.csproj|c:\\users\\ccaups\\source\\repos\\databasetask\\databasetask\\databasetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51526318-4088-4AA2-9BF9-77F9D247CB1C}|DatabaseTask\\DatabaseTask.csproj|solutionrelative:databasetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240512163557_CreateDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseTask.Data\\Migrations\\20240512163557_CreateDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|c:\\users\\ccaups\\source\\repos\\databasetask\\databasetask\\databasetask.data\\databasetaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|solutionrelative:databasetask.data\\databasetaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240512163251_CreateDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseTask.Data\\Migrations\\20240512163251_CreateDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask\\appsettings.json",
+              "RelativeToolTip": "DatabaseTask\\appsettings.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T16:38:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240512163557_CreateDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240512163557_CreateDataBase.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\Migrations\\20240512163557_CreateDataBase.cs",
+              "ToolTip": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240512163557_CreateDataBase.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\Migrations\\20240512163557_CreateDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:35:57.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240512163251_CreateDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240512163251_CreateDataBase.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\Migrations\\20240512163251_CreateDataBase.cs",
+              "ToolTip": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240512163251_CreateDataBase.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\Migrations\\20240512163251_CreateDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:32:51.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseTaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "ToolTip": "C:\\Users\\ccaups\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:24:24.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
